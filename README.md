@@ -123,7 +123,7 @@ For scripts with email capability, configure SMTP settings:
 ```powershell
 $SmtpServer = "smtp.company.local"
 $EmailFrom = "it-automation@aykutyildiz.com"
-$EmailTo = "it-team@aykutyildiz.comr"
+$EmailTo = "it-team@aykutyildiz.com"
 ```
 
 ### Logging
